@@ -4,7 +4,7 @@ calibre_web_name: calibre-web
 calibre_web_image: linuxserver/calibre-web
 calibre_web_ports:
   - 8083:8083
-calibre_web_config_directory: "{{ common_config_directory }}/calibre-web"
+calibre_web_config_directory: "{{ common_config_directory }}"
 calibre_web_books_directory: "{{ common_books_directory }}"
 calibre_web_environment_variables:
   PUID: "1000"

@@ -5,7 +5,7 @@ calibre_image: linuxserver/calibre
 calibre_ports:
   - 8080:8080
   - 8081:8081
-calibre_config_directory: "{{ common_config_directory }}/calibre"
+calibre_config_directory: "{{ common_config_directory }}"
 calibre_books_directory: "{{ common_books_directory }}"
 calibre_environment_variables:
   PUID: "1000"
