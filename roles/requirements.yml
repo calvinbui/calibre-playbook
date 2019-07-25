@@ -12,7 +12,7 @@
   version: '1.0.0'
 
 - src: calvinbui.ansible_calibre_docker
-  version: '1.1.0'
+  version: '1.2.0'
 
 - src: calvinbui.ansible_calibre_web_docker
   version: '1.0.1'
