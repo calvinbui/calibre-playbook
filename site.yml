@@ -13,7 +13,7 @@
     - calvinbui.ansible_pip
     - calvinbui.ansible_docker_network
     - calvinbui.ansible_nfs_client
-    - calvinbui.ansible_calibre_docker
     - calvinbui.ansible_calibre_web_docker
+    - calvinbui.ansible_calibre_docker
     - calvinbui.ansible_watchtower
     - calvinbui.ansible_datadog
